@@ -7,3 +7,17 @@
    background-color: rgba(0, 0, 0, 0.5);
 }
 
+.navbar a{
+    color: orange;
+}
+
+.botones{
+    text-align: center;
+}
+
+.botones a {
+    margin: 20px;
+    padding: 20px;
+    margin-right: 50px; 
+}
+
