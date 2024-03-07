@@ -4,11 +4,16 @@
     box-sizing: border-box;
 }
 #navbar{
-   background-color: rgba(0, 0, 0, 0.5);
+   color: orange;
 }
 
 .navbar a{
     color: orange;
+}
+
+
+.navbar-toggler-icon {
+    background-color: grey; /* Cambiar el color de fondo del icono de hamburguesa a rojo */
 }
 
 .botones{
@@ -21,3 +26,11 @@
     margin-right: 50px; 
 }
 
+.card-body{
+    color: black;
+    background-color: orange;
+}
+
+.card-footer{
+    background-color: black;
+}
