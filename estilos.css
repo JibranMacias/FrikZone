@@ -13,7 +13,7 @@
 
 
 .navbar-toggler-icon {
-    background-color: grey; /* Cambiar el color de fondo del icono de hamburguesa a rojo */
+    background-color: grey;
 }
 
 .botones{
@@ -33,4 +33,25 @@
 
 .card-footer{
     background-color: black;
+}
+
+footer {
+    background-color: #808080; /* Cambia este color al gris que desees */
+    width: 100%;
+    bottom: 0;
+    left: 0;
+    padding: 20px 0; /* Añade un poco de espacio para separar el contenido del borde inferior */
+  }
+
+footer a{
+    color: white;
+    text-decoration: none;
+}
+
+footer h3{
+    color: white;
+}
+
+footer p{
+    color: white;
 }
