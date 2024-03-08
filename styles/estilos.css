@@ -56,19 +56,14 @@ footer p{
     color: white;
 }
 
-.fondom{
-    background-image: url(/img/paisaje-anime-atardecer-arte-digital_1920x1080_xtrafondos.com.jpg);
-    background-size: cover; 
-    background-attachment: fixed; 
-    background-position: center; 
-    margin: 0;
-    font-family: Arial, sans-serif;
-}
+
 .titulos h1{
   margin: 0px;
     text-align: center;
-    background-color: orange;
     color: white;
+    font-size: 48px;
+    color: #000000; 
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
 
 .topop {
@@ -78,6 +73,23 @@ footer p{
 
 .topop h2{
     font-size: 48px;
-    color: #ffffff; /* Color del texto */
+    color: #ffffff; 
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
+
+.footerm{
+    background-color: white;
+}
+
+.footerm h3{
+    color: black;
+}
+
+.footerm p{
+    color: black;
+}
+
+.footerm ul li a{
+    color: black;
+}
+
