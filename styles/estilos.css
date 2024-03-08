@@ -68,7 +68,9 @@ footer p{
 
 .topop {
     text-align: center;
-    margin-bottom: 50px;
+    margin-bottom: 100px;
+    background-color: grey;
+    border-radius: 50px;
 }
 
 .topop h2{
@@ -91,5 +93,10 @@ footer p{
 
 .footerm ul li a{
     color: black;
+}
+
+.cardpromo{
+    display: flex;
+    justify-content: end;
 }
 
