@@ -27,12 +27,7 @@
 }
 
 .card-body{
-    color: black;
     background-color: orange;
-}
-
-.card-footer{
-    background-color: black;
 }
 
 footer {
@@ -100,3 +95,26 @@ footer p{
     justify-content: end;
 }
 
+.card-container {
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    flex-wrap: wrap; 
+    gap: 20px; 
+}
+
+
+.cardc {
+    width: 18rem; 
+    height: auto; 
+}
+
+.bannerColecciones {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    height: 100px; 
+    background-color: gray; 
+    color: white; 
+    margin-bottom: 20px; 
+}
