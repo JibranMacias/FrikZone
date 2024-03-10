@@ -31,11 +31,11 @@
 }
 
 footer {
-    background-color: #808080; /* Cambia este color al gris que desees */
+    background-color: #808080; 
     width: 100%;
     bottom: 0;
     left: 0;
-    padding: 20px 0; /* Añade un poco de espacio para separar el contenido del borde inferior */
+    padding: 20px 0; 
   }
 
 footer a{
